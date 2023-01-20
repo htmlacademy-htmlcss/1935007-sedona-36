@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Irina Bessner](https://up.htmlacademy.ru/htmlcss/36/user/1935007).
-* Наставник: `Неизвестно`.
+* Наставник: [Roman Zheltov](https://htmlacademy.ru/profile/id1145037).
 
 ---
 
